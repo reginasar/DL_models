@@ -1,0 +1,11 @@
+input_shape : (28, 28, 1)
+depth_base : 16
+encoded_size : 10
+batch_size : 128
+epochs : 10
+optimizer : "Adam"
+loss : "mse"
+learning_rate : 1.e-3
+metrics : "mse"
+path_model : "./"
+variational : False
