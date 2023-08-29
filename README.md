@@ -16,7 +16,7 @@ A convolutional autoencoder. Unsupervised algorithm that takes an image as input
 
 ### Variational Autoencoder
 
-Same as with the autoencoder, switching the 'variational' variable to True (in the configuration file or in the fouth colab cell). In this case the inputs are encoded to parametrs that describe a variational distribution, allowing to sample from it after training to generate new data.
+Same as with the autoencoder, switching the 'variational' variable to True (in the configuration file or in the fourth colab cell). In this case the inputs are encoded to parametrs that describe a variational distribution, allowing to sample from it after training to generate new data.
 
 ## Contrastive Learning (SimCLR)
 
