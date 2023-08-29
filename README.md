@@ -6,7 +6,7 @@ Some models I've played with, using TensorFlow.
 
 A convolutional autoencoder. Unsupervised algorithm that takes an image as input, encodes it into a lower-dimension space and aims to decode/reconstruct the initial image.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/reginasar/DL_models/blob/main/colab/autoencoder.ipynb)]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/reginasar/DL_models/blob/main/colab/autoencoder.ipynb)
 
 - Training: ae_train.py
 - Model: models/ae_CNN.py
